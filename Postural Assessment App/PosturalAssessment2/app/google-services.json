@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169615944553",
+    "firebase_url": "https://postural-assessment-20efd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "postural-assessment-20efd",
+    "storage_bucket": "postural-assessment-20efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169615944553:android:3080be831a70027bb0abf8",
+        "android_client_info": {
+          "package_name": "com.example.posturalassessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169615944553-c7t3v1vssrbiaoab7t290o4qe5o673q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghSvclOiV7th2GHBtPCtoqt7477kjHVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169615944553-c7t3v1vssrbiaoab7t290o4qe5o673q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
